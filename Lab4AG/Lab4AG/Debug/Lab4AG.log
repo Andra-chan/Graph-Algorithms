@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Andra\source\repos\Lab4AG\Lab4AG\Source.cpp(25,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Andra\source\repos\Lab4AG\Lab4AG\Source.cpp(30,20): warning C4018: '<': signed/unsigned mismatch
+  Lab4AG.vcxproj -> C:\Users\Andra\source\repos\Lab4AG\Debug\Lab4AG.exe
